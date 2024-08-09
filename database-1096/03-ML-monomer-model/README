@@ -1,0 +1,10 @@
+6Model-DFT-MACCS
+6Model-DFT-MACCS-MorganFP
+6Model-DFT-MorganFP
+6Model-DFT-RDKit
+6Model-DFT-RDKit-MACCS
+6Model-DFT-RDKit-MACCS-MorganFP
+6Model-DFT-RDKit-MorganFP
+These 7 folder please download through this link: https://drive.google.com/drive/folders/1jnQCZFyQa6qWXAZxnNgCcnTVPP-l4Su9?usp=drive_link
+In each of them has 6 different folders(adaboost-10fold-10subfold; gbr-10fold-10subfold; hgbr-10fold-10subfold; lgbm-10fold-10subfold; rf-10fold-10subfold; 
+xgb-10fold-10subfold)
